@@ -3,7 +3,7 @@
 
 An ESP32-powered dual-axis solar tracking system featuring real-time environmental monitoring via DHT22 and light-intensity tracking with LDRs. 
 Includes automatic sun-seeking logic, manual mechanical axis overrides via Blynk IoT, and cloud-based telemetry.
-
+Includes a automatic axis for day to day tracking and an mchanical axis for seasonal changes.
 
 https://github.com/user-attachments/assets/a54b34b7-676d-49fc-907f-66a5c17c082b
 
